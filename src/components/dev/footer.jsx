@@ -6,7 +6,7 @@ export function Footer() {
           <div className="flex flex-col gap-8 lg:flex-row lg:items-center lg:justify-between mb-12">
   
             <div className="flex items-center gap-3 text-xl font-semibold">
-              <img src="./positivus-logo.png" className="h-6" alt="logo" />
+              <img src="./Positivus-logo.png" className="h-6" alt="logo" />
               Positivus
             </div>
   
@@ -26,7 +26,6 @@ export function Footer() {
   
           </div>
   
-          {/* Middle Section */}
           <div className="flex flex-col gap-12 lg:flex-row mb-12">
 
             <div className="lg:flex-[1]">
@@ -60,7 +59,6 @@ export function Footer() {
   
           <hr className="border-gray-600 mb-6" />
   
-          {/* Bottom Row */}
           <div className="flex flex-col gap-4 text-sm text-gray-400 lg:flex-row">
             <p>© 2023 Positivus. All Rights Reserved.</p>
             <a href="#" className="underline">
