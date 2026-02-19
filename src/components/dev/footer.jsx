@@ -6,7 +6,7 @@ export function Footer() {
           <div className="flex flex-col gap-8 lg:flex-row lg:items-center lg:justify-between mb-12">
   
             <div className="flex items-center gap-3 text-xl font-semibold">
-              <img src="/positivus-logo.png" className="h-6" alt="logo" />
+              <img src="./positivus-logo.png" className="h-6" alt="logo" />
               Positivus
             </div>
   
